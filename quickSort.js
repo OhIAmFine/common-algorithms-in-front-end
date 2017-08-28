@@ -1,9 +1,7 @@
 function quickSort(arr) {
- 
-    if(arr.length<=1) {
+    if(arr.length <= 1) {
         return arr;
     }
- 
     let leftArr = [];
     let rightArr = [];
     let q = arr[0];
