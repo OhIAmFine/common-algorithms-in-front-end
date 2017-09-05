@@ -1,2 +1,3 @@
 # common-algorithms-in-front-end
-javascript 
+- 学习中整理的前端常用的算法
+- 每日查漏补缺
